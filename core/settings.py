@@ -124,7 +124,7 @@ LANGUAGES = (
     ('en', '🇬🇧 English'),
     ('ru', '🇷🇺 Russian'),
     ('uz', '🇺🇿 Uzbek'),
-    
+    ("de", "German"),
 )
 
 LOCALE_PATHS = BASE_DIR / 'locale',
